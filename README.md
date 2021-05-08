@@ -1,2 +1,2 @@
-# pro-21
-bullet &amp; wall
+# collisionAlgorithm
+Algorithm to detect collision between two objects
